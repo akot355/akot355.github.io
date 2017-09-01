@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-description: Feel free to bookmark this to keep an eye on my project updates for this infomgmt class. 
+Feel free to bookmark this to keep an eye on my project updates for this infomgmt class. 
 
 You can use the [editor on GitHub](https://github.com/akot355/akot355.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
